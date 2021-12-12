@@ -1,4 +1,4 @@
-# Project Title
+# Text to Text Translation (Punjabi to English)
 
  In this Project we will be translating Punjabi text to English language.
 
