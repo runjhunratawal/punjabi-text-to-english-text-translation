@@ -1,6 +1,6 @@
 # Text to Text Translation (Punjabi to English)
 
- In this Project we will be translating Punjabi text to English language.
+The user needs to enter the statement in Punjabi which has to be translated. As a result, an English translated statement will be displayed. The translate package with the support of multiple translation providers enables us to perform the translation within minimal steps. The use of the tkinter package serves our purpose to make the application easy to understand. It provides a friendly and engaging graphical user interface.
 
 ## Installation
 
